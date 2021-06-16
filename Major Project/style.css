@@ -1,0 +1,19 @@
+.c{
+    box-shadow: 0px 0px 15px gray;
+}
+.ca{
+    margin-left: 16.5%;
+}
+body{
+    background-image: url(b.jpg);
+}
+.carousel-item{
+    height: 70vh;
+
+}
+.carousel-item img{
+    height: 100%;
+    background-repeat: no-repeat;
+   width: 100%;
+   padding: 1%;
+}
