@@ -1,2 +1,1 @@
-# major-project
- 
+welcome to the major project
